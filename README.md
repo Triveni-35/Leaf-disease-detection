@@ -45,6 +45,10 @@ This dataset contains 87,000 RGB images of healthy and diseased crop leaves cate
 	36 : 'Tomato mosaic virus',
 	37 : 'Tomato healthy'
 
+<img width="248" alt="image" src="https://github.com/user-attachments/assets/dfb2f89a-d2e6-489c-b54a-570035e4812c"> <br>
+<img width="258" alt="image" src="https://github.com/user-attachments/assets/bf120d2d-925f-44f5-a466-bc63e337b91c"><br>
+
+
 
 * Building Graphical User Interfaces (GUIs) for Model Interaction.
 * Integrating Machine Learning Models with GUIs.
